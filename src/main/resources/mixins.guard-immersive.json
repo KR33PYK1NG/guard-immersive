@@ -1,0 +1,9 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.guard-immersive.refmap.json",
+    "package": "rmc.mixins.guard_immersive",
+    "mixins": [
+        "IEExplosionMixin",
+        "WirecutterItemMixin"
+    ]
+}
